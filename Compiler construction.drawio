@@ -177,6 +177,20 @@
         <mxCell id="dBsSu0uMn5My9wH_t9E--90" value="0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="710" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dBsSu0uMn5My9wH_t9E--92" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dBsSu0uMn5My9wH_t9E--81" target="dBsSu0uMn5My9wH_t9E--69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="555" y="840" as="sourcePoint" />
+            <mxPoint x="405" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="890" />
+              <mxPoint x="430" y="920" />
+              <mxPoint x="300" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dBsSu0uMn5My9wH_t9E--93" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="921" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
