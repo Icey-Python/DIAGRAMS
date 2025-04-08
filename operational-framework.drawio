@@ -4,8 +4,156 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_xuT2mct5Y2aPdOas3X4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-1" target="_xuT2mct5Y2aPdOas3X4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-1" value="smart city security" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-2" value="cyber security attacks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-3" value="Digital forensics readiness stations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-4" value="Quantam storage mechanism" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-5" value="viable mitigation alternative" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="270" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-7" target="_xuT2mct5Y2aPdOas3X4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-7" value="storage challenges" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-8" value="vulnerable to" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-9" target="_xuT2mct5Y2aPdOas3X4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-9" value="viable solution to storage" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="120" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-10" value="addresses storage" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="50" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.44;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-4" target="_xuT2mct5Y2aPdOas3X4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.927;entryY=-0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-3" target="_xuT2mct5Y2aPdOas3X4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-8" target="_xuT2mct5Y2aPdOas3X4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-1" target="_xuT2mct5Y2aPdOas3X4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1.008;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-10" target="_xuT2mct5Y2aPdOas3X4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.9;entryY=1.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-4" target="_xuT2mct5Y2aPdOas3X4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-22" value="&lt;b&gt;OPERATIONAL FRAMEWORK&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="410" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-23" target="_xuT2mct5Y2aPdOas3X4-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-23" value="Identify all QSM technques" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-24" target="_xuT2mct5Y2aPdOas3X4-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-24" value="Select an appropriate option based on your solution criteria" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-26" target="_xuT2mct5Y2aPdOas3X4-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-26" value="Implement selected techniques" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-28" value="Improve selected techniques" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-30" target="_xuT2mct5Y2aPdOas3X4-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-30" value="Evaluate Improvement based on evaluation metrics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="460" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-28" target="_xuT2mct5Y2aPdOas3X4-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.015;entryY=0.207;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-26" target="_xuT2mct5Y2aPdOas3X4-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-33" value="Phase 1: Development of the QSM" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="630" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-34" value="Formulate 3 scenarios for testing the QSM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-35" target="_xuT2mct5Y2aPdOas3X4-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-35" value="Implement each scenario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-37" target="_xuT2mct5Y2aPdOas3X4-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-37" value="Evaluate with and without the QSM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-40" target="_xuT2mct5Y2aPdOas3X4-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-40" value="Intergarate the developed QSM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-42" target="_xuT2mct5Y2aPdOas3X4-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-42" target="_xuT2mct5Y2aPdOas3X4-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-42" value="Define a digital forensic readiness mechanism in SC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-43" value="Set up a smart city platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-46" value="Attempt an attack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-47" value="Evaluate storage efficiency with or without attacks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.417;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-46" target="_xuT2mct5Y2aPdOas3X4-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-50" value="Phase 2: Evaluation of the QSM" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="840" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-51" value="Phase 1: Development of the QSM" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="410" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
