@@ -191,6 +191,9 @@
         <mxCell id="_xuT2mct5Y2aPdOas3X4-61" value="Solutions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="710" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-64" value="&lt;div&gt;3.1 Overview&lt;/div&gt;&lt;div&gt;3.2 Research Design&lt;/div&gt;&lt;div&gt;3.3.1 phase 1&lt;/div&gt;&lt;div&gt;3.3.2 phase 2&lt;/div&gt;&lt;div&gt;3.3.3 phase 3&lt;/div&gt;&lt;div&gt;3.4 System Requirement&lt;/div&gt;&lt;div&gt;3.5 Evaluation metrics&lt;/div&gt;&lt;div&gt;3.6 Summary&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="40" width="150" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
