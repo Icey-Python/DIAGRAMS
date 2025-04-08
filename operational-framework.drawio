@@ -152,8 +152,44 @@
         <mxCell id="_xuT2mct5Y2aPdOas3X4-50" value="Phase 2: Evaluation of the QSM" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="840" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_xuT2mct5Y2aPdOas3X4-51" value="Phase 1: Development of the QSM" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="410" width="200" height="30" as="geometry" />
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-51" value="Phase 3: Testing the QSM in Smart city storage efficiency" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="410" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-52" target="_xuT2mct5Y2aPdOas3X4-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-52" target="_xuT2mct5Y2aPdOas3X4-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-52" value="&lt;div&gt;Smart &lt;br&gt;&lt;/div&gt;&lt;div&gt;cities&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-53" target="_xuT2mct5Y2aPdOas3X4-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-53" value="&lt;div&gt;Security &lt;br&gt;&lt;/div&gt;&lt;div&gt;challenges&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-54" target="_xuT2mct5Y2aPdOas3X4-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-54" target="_xuT2mct5Y2aPdOas3X4-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-54" value="Stage problem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-56" value="Quantam storage mechanism" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_xuT2mct5Y2aPdOas3X4-58" target="_xuT2mct5Y2aPdOas3X4-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-58" value="Digital forensic readiness" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_xuT2mct5Y2aPdOas3X4-61" value="Solutions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
